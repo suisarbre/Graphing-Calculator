@@ -1,0 +1,7 @@
+x^tan(x)
+x^2
+x-3
+x*(sin(x^2))
+x^3
+sin(x)/sqrt(tan(x))
+x/sin(x)
