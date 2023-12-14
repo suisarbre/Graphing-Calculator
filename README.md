@@ -12,9 +12,10 @@
 <br><br>
 
 - Implemented:
+  - Various data structure such as linked list, vector, stack and queue
+  - Tokenize
   - Shunting yard algorithm
   - RPN algorithm
-  - Stack and Queue
   - Taking user input and checks the syntax
   - Hitory save, load and delete
 
