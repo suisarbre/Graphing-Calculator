@@ -1,7 +1,8 @@
 
-# Work Report
-
 ## Name: <ins> Ganghyun Lee </ins>
+
+# **Showcase**
+![Graphing calculator by Gavin Lee](./outcome/1.gif)
 
 ## Features:
 
@@ -35,8 +36,6 @@
 - Has a room for improvement such as more manageable functions by spliting up into smaller funcitons.
 - Some of the elements are not flexible or easy to make change, making management much harder.
 
-# **output**
-![Graphing calculator by Gavin Lee](./outcome/1.gif)
 
 
 
